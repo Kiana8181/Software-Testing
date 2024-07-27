@@ -45,8 +45,8 @@ You can view the PDF related to this course in the root of this repository: [Sof
 ## Getting Started
 
 1. Clone the repository: `git clone https://github.com/Kiana8181/Software-Testing.git`
-2. Install dependencies: `npm install`
-3. Run tests: `npm test`
+2. Navigate to the project directory: `cd Software-Testing`
+3. Install dependencies: `npm install`
 
 ## Scripts
 
